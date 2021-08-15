@@ -1,4 +1,4 @@
-package com.tarefas.tarefas;
+package com.tarefas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

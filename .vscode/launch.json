@@ -6,7 +6,7 @@
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
-            "mainClass": "com.tarefas.tarefas.TarefasApplication",
+            "mainClass": "com.tarefas.TarefasApplication",
             "projectName": "tarefas",
             "args": ""
         }
